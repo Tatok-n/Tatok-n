@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Tarek Namani!
+### Hi there 👋  I'm Tarek Namani!
 
 - 🔭 I’m currently working on a Unity game project!
 - 🌱 Learning C#
