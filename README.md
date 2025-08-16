@@ -20,4 +20,4 @@
   - Users can track brews, beans, grinders, and bean purchases
   - Integrated analytics dashboard
 - **Repo:** [Backend](https://github.com/Tatok-n/beanBoiBackend) and [Frontend](https://github.com/Tatok-n/beanBoi-frontend)
-- 
+
